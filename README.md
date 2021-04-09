@@ -1,1 +1,1 @@
-# login-logout-with-pgadmin
+# login-logout-django-template-with-pgadmin
